@@ -4,3 +4,4 @@
 *.user
 *.filters
 x64/
+build/
