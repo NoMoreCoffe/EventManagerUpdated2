@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/event_manager.dir/src/main.cpp.o -o event_manager  libevent_lib.a 

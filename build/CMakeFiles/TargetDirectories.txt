@@ -1,0 +1,9 @@
+/home/serge/Desktop/EventManagerUpdated2/build/CMakeFiles/event_lib.dir
+/home/serge/Desktop/EventManagerUpdated2/build/CMakeFiles/event_manager.dir
+/home/serge/Desktop/EventManagerUpdated2/build/CMakeFiles/test.dir
+/home/serge/Desktop/EventManagerUpdated2/build/CMakeFiles/edit_cache.dir
+/home/serge/Desktop/EventManagerUpdated2/build/CMakeFiles/rebuild_cache.dir
+/home/serge/Desktop/EventManagerUpdated2/build/tests/CMakeFiles/run_tests.dir
+/home/serge/Desktop/EventManagerUpdated2/build/tests/CMakeFiles/test.dir
+/home/serge/Desktop/EventManagerUpdated2/build/tests/CMakeFiles/edit_cache.dir
+/home/serge/Desktop/EventManagerUpdated2/build/tests/CMakeFiles/rebuild_cache.dir
