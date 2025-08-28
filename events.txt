@@ -1,0 +1,14 @@
+1.8.2025 party 1
+5.8.2025 party 2
+10.08.2025 party 3
+15.08.2025 Project kickoff meeting
+16.08.2025 Friend's birthday party
+25.08.2025 Submit final report
+28.08.2025 Doctor appointment
+30.08.2025 Weekend trip
+1.9.2025 TEST 1: D.M.YYYY txt user input(TEST word should be VISIBLE)
+5.09.2025 TEST 2: D.0M.YYYY txt user input(TEST word should be VISIBLE)
+06.9.2025 TEST 3: 0D.M.YYYY txt user input(TEST word should be VISIBLE)
+07.09.2025 TEST 4: 0D.0M.YYYY txt user input(TEST word should be VISIBLE)
+20.10.2025 TEST 5: DD.MM.YYYY txt user input(TEST word should be VISIBLE)
+25.10.2025 New Event 1
